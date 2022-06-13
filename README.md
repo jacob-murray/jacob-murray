@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @owlishbug
 - 👀 I’m interested in version control, machine learning, coffee
-- 🌱 I’m currently learning version control
+- 🌱 I’m currently learning random forests
 - 📫 How to reach me jacobmur@umich.edu
 
 <!---
