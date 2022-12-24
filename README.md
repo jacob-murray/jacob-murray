@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @owlishbug
 - 👀 I’m interested in data wrangling, machine learning, coffee
-- 🌱 I’m currently learning random forests
+- 🌱 I’m currently learning docker
 - 📫 How to reach me jacobmur@umich.edu
 
 <!---
