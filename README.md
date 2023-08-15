@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacob-murray
 - 👀 I’m interested coffee, public policy, and data pipelines.
-- 🌱 I’m currently learning docker
+- 🌱 I’m currently learning pca analysis
 - 📫 How to reach me jacobmur@umich.edu
 
 <!---
